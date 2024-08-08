@@ -1,5 +1,5 @@
 
-React-app (component, props, map)
+React-app (components, props, maps)
 
 
 ## Test Demo
